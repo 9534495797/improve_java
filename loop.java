@@ -17,7 +17,7 @@ public class loop {
     //while loop
     int i=10;
     while(i>0){
-        System.out.println("*");
+        System.out.println(i);
         i--;
     }
 }
